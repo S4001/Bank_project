@@ -1,0 +1,11 @@
+C:\Users\JAY GANESH\source\repos\BankUser\BankUser\bin\Debug\BankUser.exe.config
+C:\Users\JAY GANESH\source\repos\BankUser\BankUser\bin\Debug\BankUser.exe
+C:\Users\JAY GANESH\source\repos\BankUser\BankUser\bin\Debug\BankUser.pdb
+C:\Users\JAY GANESH\source\repos\BankUser\BankUser\obj\Debug\BankUser.csproj.AssemblyReference.cache
+C:\Users\JAY GANESH\source\repos\BankUser\BankUser\obj\Debug\BankUser.Form1.resources
+C:\Users\JAY GANESH\source\repos\BankUser\BankUser\obj\Debug\BankUser.Properties.Resources.resources
+C:\Users\JAY GANESH\source\repos\BankUser\BankUser\obj\Debug\BankUser.csproj.GenerateResource.cache
+C:\Users\JAY GANESH\source\repos\BankUser\BankUser\obj\Debug\BankUser.csproj.CoreCompileInputs.cache
+C:\Users\JAY GANESH\source\repos\BankUser\BankUser\obj\Debug\BankUser.exe
+C:\Users\JAY GANESH\source\repos\BankUser\BankUser\obj\Debug\BankUser.pdb
+C:\Users\JAY GANESH\source\repos\BankUser\BankUser\obj\Debug\BankUser.Form2.resources
